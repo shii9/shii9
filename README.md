@@ -100,7 +100,8 @@ For me, cybersecurity is more than just a toolkit; it is a mindset of proactive 
 <table> 
   <tr> 
     <td width="55%" valign="top"> <img src="https://github-readme-stats.vercel.app/api?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> 
+    <img src="https://nirzak-streak-stats.vercel.app/?user=shii9&theme=github_dark&hide_border=false" alt="GitHub Streak" /> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> 
     </td> <td width="45%" valign="top" align="center">
 
 <img src="https://camo.githubusercontent.com/9e33759decde7629a1e2df5d70ec6d924349adc7d769101df4d7f75bd4cea392/68747470733a2f2f692e696d6775722e636f6d2f31546f574557772e706e67" width="400px" alt="GIF" />
