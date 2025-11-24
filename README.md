@@ -96,42 +96,13 @@ For me, cybersecurity is more than just a toolkit; it is a mindset of proactive 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white)
 ![VScode](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=VScode&color=blue)
 
-# 📊 GitHub Stats:
-<table>
-<tr>
-<td width="55%" valign="top">
-
-<!-- GitHub Stats -->
-<img 
-     src="https://github-readme-stats.vercel.app/api?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" 
-     alt="GitHub Stats" 
-     width="100%" 
-/>
-
-<!-- GitHub Streak -->
-<img 
-     src="https://streak-stats.demolab.com?user=shii9&theme=github-dark&hide_border=false" 
-     alt="GitHub Streak" 
-     width="100%" 
-/>
-
-<!-- Top Languages -->
-<img 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=shii9&theme=github_dark&hide_border=false&layout=compact" 
-     alt="Top Languages" 
-     width="100%" 
-/>
-
-</td>
-
-<td width="45%" valign="top" align="center">
-
-<img src="/mnt/data/1dbb273c-d06a-4390-a499-dcf7ca36f94e.png" width="100%" />
-
-</td>
-</tr>
-</table>
-
+# 📊 GitHub Stats: 
+<table> 
+  <tr> 
+    <td width="55%" valign="top"> <img src="https://github-readme-stats.vercel.app/api?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
+      <img src="https://nirzak-streak-stats.vercel.app/?user=shii9&theme=github_dark&hide_border=false" alt="GitHub Streak" /> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> 
+    </td> <td width="45%" valign="top" align="center">
 
 <img src="https://camo.githubusercontent.com/9e33759decde7629a1e2df5d70ec6d924349adc7d769101df4d7f75bd4cea392/68747470733a2f2f692e696d6775722e636f6d2f31546f574557772e706e67" width="400px" alt="GIF" />
 
