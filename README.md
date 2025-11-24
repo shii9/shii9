@@ -39,11 +39,11 @@ For me, cybersecurity is more than just a toolkit; it is a mindset of proactive 
 <tr>
   <td width="60%" valign="top">
 
-• 🔥 Performing advanced penetration testing on high-impact web application.
-• 🛠️ Building custom hacking tools and automation scripts for recon.
-• 📱 Security Researcher.
-• 🌱 Staying active in bug bounty programs.
-• 🌐 Contributing to open-source security tools.
+- 🔥 Performing advanced penetration testing on high-impact web application.
+- 🛠️ Building custom hacking tools and automation scripts for recon.
+- 📱 Security Researcher.
+- 🌱 Staying active in bug bounty programs.
+- 🌐 Contributing to open-source security tools.
 
   </td>
   <td width="40%" valign="top" align="center">
