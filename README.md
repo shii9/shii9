@@ -11,7 +11,7 @@
 
 
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img 
+## Hi there
 
 I am **Sourov (SHIx9)**, My passion for cybersecurity began when I realized how vulnerable digital systems can be, and I have been driven ever since to explore how to secure them. As a Computer Science student, I specialize in ethical hacking, network security, and digital forensics. I have developed hands-on projects using Python, including an IoT-based system, and have experience working with tools such as Wireshark, Nmap, and Burp Suite.
 
@@ -128,17 +128,14 @@ For me, cybersecurity is more than just a toolkit; it is a mindset of proactive 
 
 ---
 
-<details>
-
-<p align="center">
-    Aspiring Cybersecurity
-</p>
-
-</details>
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake.svg">
+</picture>
 
 </div>
 
