@@ -12,7 +12,7 @@
 
 ## Hi there
 
-I am **Sourov (SHIx9)**, My passion for cybersecurity began when I realized how vulnerable digital systems can be, and I have been driven ever since to explore how to secure them. As a Computer Science student, I specialize in ethical hacking, network security, and digital forensics. I have developed hands-on projects using Python, including an IoT-based system, and have experience working with tools such as Wireshark, Nmap, and Burp Suite.
+I am **SHIx9**, My passion for cybersecurity began when I realized how vulnerable digital systems can be, and I have been driven ever since to explore how to secure them. As a Computer Science student, I specialize in ethical hacking, network security, and digital forensics. I have developed hands-on projects using Python, including an IoT-based system, and have experience working with tools such as Wireshark, Nmap, and Burp Suite.
 
 For me, cybersecurity is more than just a toolkit; it is a mindset of proactive defense and continuous learning. Outside of development and testing, I enjoy analyzing real-world cyber incidents, studying attack vectors, and exploring how they can be mitigated. I am also passionate about Linux environments, open-source contributions, and building secure systems from the ground up. Let us connect to collaborate on cybersecurity, open-source projects, or innovative technology ideas.
 
