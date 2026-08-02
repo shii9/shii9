@@ -98,23 +98,11 @@ Currently holds a **LetsDefend** certification.
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00FF00?style=plastic&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=plastic&logo=virtualbox&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![VScode](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=VScode&color=blue)
 
-## 📊 GitHub Stats
+📊 GitHub Stats
+<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> </div>
 
-<table>
-<tr>
-<td width="55%" valign="top">
+Best repos are pinned via GitHub's own Customize your pins feature instead of a third-party "top contributed" widget — it's built into the profile page itself, shows up automatically, and has zero uptime risk.
 
-<img src="https://github-readme-stats.vercel.app/api?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=shii9&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://camo.githubusercontent.com/9e33759decde7629a1e2df5d70ec6d924349adc7d769101df4d7f75bd4cea392/68747470733a2f2f692e696d6775722e636f6d2f31546f574557772e706e67" width="400px" alt="GIF" />
-
-</td>
-</tr>
 </table>
 
 <div align="center">
@@ -126,8 +114,6 @@ Currently holds a **LetsDefend** certification.
 </div>
 
 ---
-
-<p align="center"><b>♥ بسم الله (Bismillah)</b></p>
 
 <div align="center">
   <picture>
