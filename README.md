@@ -1,12 +1,33 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated header divider"
+/>
+
+<br>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=48&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=75&lines=Hey!+I'm+Sourov+Hossen;Known+Online+as+SHIx9;Cybersecurity+Researcher+and+Ethical+Hacker;Breaking+Systems+Ethically%2C+Building+Them+Securely"
+    alt="Typing introduction"
+  />
+</a>
+
+<br>
+
+
+<a href="https://github.com/shii9?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Focus-Cybersecurity-0969DA?style=flat&logo=hackthebox&logoColor=white"
+    alt="Cybersecurity focus"
+  />
+</a>
+
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=50&pause=1000&center=true&vCenter=true&width=600&height=60&lines=Hi!+I'M+SHIx9+;Welcome+to+my+Profile" alt="Typing SVG" />
-  </a>
-</div>
+---
 
 ## Hi there 👋
 
@@ -19,106 +40,502 @@ For me, cybersecurity isn't just a skillset — it's a mindset of proactive defe
 ---
 
 <details>
-<summary>💫 More About Me</summary>
+<summary><strong>💫 More About Me</strong></summary>
+
 <br>
 
-- **Name:** Sourov
-- **From:** Bangladesh
-- **Role:** Aspiring Cybersecurity Researcher | Ethical Hacker | Network Security Analyst
-
-**Specialties**
-- Web Application Security
-- Red Teaming & Social Engineering
-- Reverse Engineering & Malware Analysis
-- Network Security & Threat Intelligence
-
-</details>
-
-## 📌 Present Status
-
-<table border="0">
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="50%" valign="top">
 
-- 🔥 Performing penetration testing on real-world web applications
-- 🛠️ Building custom recon and automation tooling for bug bounty work
-- 🧠 Researching a hybrid ML/DL-based network intrusion detection system
-- 🌱 Active in bug bounty programs
-- 🌐 Contributing to open-source security tools
+### Personal Profile
+
+- **Name:** Sourov Hossen
+- **Online Name:** SHIx9
+- **Location:** Bangladesh
+- **Field:** Computer Science and Engineering
+- **Focus:** Cybersecurity and Security Research
 
 </td>
-<td width="40%" valign="top" align="center">
 
-<img src="https://media2.dev.to/dynamic/image/width=320,height=320,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif" width="300px" alt="Status GIF" />
+<td width="50%" valign="top">
+
+### Career Direction
+
+- Web Security Specialist
+- Cybersecurity Researcher
+- Ethical Hacker
+- Network Security Analyst
+- Defensive Security Analyst
+- Security Tool Developer
 
 </td>
 </tr>
 </table>
 
-## 🛠 Featured Projects
+</details>
 
-**ReconSuite** — a modular CLI recon framework written in Go, alongside a Python-based recon tool covering DNS enumeration, subdomain brute-forcing, and HTTP header analysis, expanding toward full OSINT automation.
+---
 
-**web_sub** — a subdomain enumeration tool for Kali Linux (v4.0–v8.0), integrating 10 free API sources with archive extraction, permutation generation, and precise output formatting.
+## 📌 Present Status
 
-**Hybrid Network Intrusion Detection System + Explainable AI** — final-year design project combining a 3-layer detection architecture (signature-based, ML ensemble, deep learning) with a meta-ensemble on top, plus SHAP/LIME-based explainability. Trained on UNSW-NB15, reaching ~98.7% accuracy and ~99.88% AUC on held-out test data, with a Flask API for live packet sniffing and classification.
+<table>
+<tr>
+<td width="60%" valign="middle">
 
-**Bug Bounty Reference Library** — a personal knowledge base rendered as dark, terminal-styled HTML docs, covering recon methodology, HTTP header attacks, platform strategy, and a 120-entry vulnerability classification ledger. Includes `hunt.py`, a scaffolding tool that generates a 65-phase bug-hunting directory structure with embedded field guides.
+- 🔥 Performing authorized penetration testing on web applications
+- 🛠️ Building reconnaissance and security automation tools
+- 🧠 Researching an explainable hybrid network intrusion detection system
+- 🌱 Learning advanced web application security techniques
+- 🌐 Contributing to open-source security projects
+- 🐧 Working extensively with Linux security environments
+- 🔍 Studying real-world vulnerabilities and attack methodologies
+- 📚 Improving security research and technical documentation skills
 
-## 🎯 Certification Roadmap
+</td>
 
-`eJPT` → `CEH Practical` → `BSCP` → `OSCP`
+<td width="40%" valign="middle" align="center">
 
-Currently holds a **LetsDefend** certification.
+<img
+  src="https://media2.dev.to/dynamic/image/width=500,height=500,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fuser%2Fprofile_image%2F1229779%2Fb915e799-ad77-4ad5-9477-feb30ef3171d.gif"
+  width="310"
+  alt="Cybersecurity hacker animation"
+/>
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourov-hossen-307655351)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SHI91537122)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@sourovlimon4578)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/1QuaAh6Sxc/)
-[![Telegram](https://img.shields.io/badge/Telegram-%230088CC.svg?logo=Telegram&logoColor=white)](https://t.me/Mr_SHI_9)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sourovlimon85@gmail.com)
-
-## 🧰 Knowledge & Skills
-
-**Languages**
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Html5](https://img.shields.io/badge/HTML5-5D4B6C?style=plastic&logo=html5&color=000000) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
-
-**Scripting & Shell**
-
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-
-**Security Tools**
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite%20Pro-FF6F00?style=plastic&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=plastic&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=plastic&logo=metasploit&logoColor=white) ![SQLmap](https://img.shields.io/badge/SQLmap-FFD700?style=plastic&logo=sqlite&logoColor=black) ![Hydra](https://img.shields.io/badge/Hydra-2E8B57?style=plastic&logo=gnometerminal&logoColor=white) ![Nikto](https://img.shields.io/badge/Nikto-DC143C?style=plastic&logo=apache&logoColor=white) ![DirBuster](https://img.shields.io/badge/DirBuster-800000?style=plastic&logo=java&logoColor=white) ![ffuf](https://img.shields.io/badge/ffuf-000000?style=plastic&logo=linux&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=plastic&logo=wireshark&logoColor=white) ![Ghidra](https://img.shields.io/badge/Ghidra-FF0000?style=plastic&logo=java&logoColor=white) ![Autopsy](https://img.shields.io/badge/Autopsy-00008B?style=plastic&logo=windows&logoColor=white)
-
-**Platforms & Environments**
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=plastic&logo=kalilinux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot%20OS-00FF00?style=plastic&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=plastic&logo=virtualbox&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![VScode](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=VScode&color=blue)
-
-📊 GitHub Stats
-<div align="center"> <img src="https://github-stats-extended.vercel.app/api?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shii9&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /> </div>
-
-Best repos are pinned via GitHub's own Customize your pins feature instead of a third-party "top contributed" widget — it's built into the profile page itself, shows up automatically, and has zero uptime risk.
-
+</td>
+</tr>
 </table>
+
+---
+
+## 🔐 Security Specializations
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+
+### 🌐 Web Security
+
+Web application testing, authentication analysis, access-control testing, HTTP attacks, security misconfiguration and information-disclosure assessment.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🌍 Network Security
+
+Network reconnaissance, DNS enumeration, service discovery, packet analysis, firewall concepts, VPNs and network traffic investigation.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🛡️ Defensive Security
+
+SOC fundamentals, SIEM monitoring, log analysis, threat detection, incident triage, endpoint visibility and security-event investigation.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🔎 Digital Forensics
+
+Disk investigation, memory-analysis fundamentals, malware-analysis concepts, evidence examination and incident investigation.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Knowledge and Skills
+
+### Programming Languages
 
 <div align="center">
 
-### 🔝 Top Contributed Repo
+<img
+  src="https://skillicons.dev/icons?i=python,go,c,cpp,java,javascript,html,css,mysql&perline=9"
+  alt="Programming languages"
+/>
 
-![](https://github-contributor-stats.vercel.app/api?username=shii9&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+</div>
+
+<br>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+### Scripting and Command Line
+
+<div align="center">
+
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-111111?style=flat-square&logo=gnu-bash&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+---
+
+### Web Application Security
+
+<div align="center">
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=flat-square&logo=sqlite&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-6C47FF?style=flat-square&logo=go&logoColor=white)
+![FFUF](https://img.shields.io/badge/FFUF-111111?style=flat-square&logo=linux&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-202020?style=flat-square&logo=linux&logoColor=white)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-4B275F?style=flat-square&logo=python&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-B22222?style=flat-square&logo=perl&logoColor=white)
+
+</div>
+
+---
+
+### Network Security and Reconnaissance
+
+<div align="center">
+
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-2E8B57?style=flat-square&logo=linux&logoColor=white)
+![Amass](https://img.shields.io/badge/Amass-111111?style=flat-square&logo=owasp&logoColor=white)
+![Subfinder](https://img.shields.io/badge/Subfinder-394EFF?style=flat-square&logo=go&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-394EFF?style=flat-square&logo=go&logoColor=white)
+![DNSRecon](https://img.shields.io/badge/DNSRecon-00599C?style=flat-square&logo=linux&logoColor=white)
+![DNSenum](https://img.shields.io/badge/DNSenum-00599C?style=flat-square&logo=linux&logoColor=white)
+
+</div>
+
+---
+
+### Defensive Security and Monitoring
+
+<div align="center">
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-2F4F4F?style=flat-square&logo=datadog&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-8B0000?style=flat-square&logo=securityscorecard&logoColor=white)
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-334155?style=flat-square&logo=elasticstack&logoColor=white)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection-6D28D9?style=flat-square&logo=hackthebox&logoColor=white)
+
+</div>
+
+---
+
+### Digital Forensics and Reverse Engineering
+
+<div align="center">
+
+![Ghidra](https://img.shields.io/badge/Ghidra-E60000?style=flat-square&logo=java&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-003B6F?style=flat-square&logo=windows&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-8B0000?style=flat-square&logo=virustotal&logoColor=white)
+![Static Analysis](https://img.shields.io/badge/Static%20Analysis-222222?style=flat-square&logo=files&logoColor=white)
+![Memory Forensics](https://img.shields.io/badge/Memory%20Forensics-4B0082?style=flat-square&logo=windows&logoColor=white)
+
+</div>
+
+---
+
+### Platforms and Environments
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=kali,ubuntu,windows,azure,git,github,vscode,docker,flask,tensorflow&perline=10"
+  alt="Platforms and environments"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0ED?style=flat-square&logo=linux&logoColor=111111)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 Knowledge Areas
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+### ⚔️ Offensive Security
+
+- Web reconnaissance
+- Asset discovery
+- Vulnerability assessment
+- Authentication testing
+- Access-control testing
+- Session analysis
+- Information disclosure
+- HTTP header attacks
+- Security misconfiguration
+- Bug-bounty methodology
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🌐 Network and Systems
+
+- TCP/IP fundamentals
+- OSI and TCP/IP models
+- IPv4 and IPv6
+- Subnetting and CIDR
+- DNS enumeration
+- Firewalls and VPNs
+- NAT, DHCP, ARP and ICMP
+- Windows administration
+- Linux administration
+- Network troubleshooting
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🛡️ Defensive Security
+
+- SOC operations
+- SIEM monitoring
+- Security log analysis
+- Alert investigation
+- Incident triage
+- Threat detection
+- Basic incident response
+- Endpoint monitoring
+- Network traffic analysis
+- Security reporting
+
+</td>
+
+<td width="25%" valign="top">
+
+### 🧠 Security Research and AI
+
+- Cybersecurity research
+- Research methodology
+- Security data analysis
+- Machine learning
+- Deep learning
+- Intrusion detection
+- Feature engineering
+- Model evaluation
+- SHAP explanations
+- LIME explanations
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="72%" valign="middle">
+
+### Bachelor of Science in Computer Science and Engineering
+
+**Daffodil International University**
+
+- **Academic Session:** 2022–2026
+- **Department:** Computer Science and Engineering
+- **CGPA:** 3.52 out of 4.00
+- **Focus Areas:** Cybersecurity, networking, web application security, machine learning and security research
+
+</td>
+
+<td width="28%" align="center" valign="middle">
+
+<img
+  src="https://img.shields.io/badge/B.Sc.-Computer%20Science%20%26%20Engineering-0A66C2?style=for-the-badge"
+  alt="BSc in Computer Science and Engineering"
+/>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sourov-hossen-307655351/details/certifications/">
+  <img
+    src="https://img.shields.io/badge/View_All_Certifications-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="View all certifications"
+  />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img
+  src="https://github-stats-extended.vercel.app/api?username=shii9&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
+  width="49%"
+  alt="SHIx9 GitHub statistics"
+/>
+
+<img
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=shii9&theme=github_dark&hide_border=true&layout=compact&langs_count=8"
+  width="49%"
+  alt="Most used languages"
+/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=shii9&theme=github-dark-blue&hide_border=true"
+  width="70%"
+  alt="GitHub contribution streak"
+/>
+
+</div>
+
+> GitHub statistics are generated through external services and may occasionally be temporarily unavailable.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sourov-hossen-307655351">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Sourov%20Hossen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://x.com/SHI91537122">
+  <img
+    src="https://img.shields.io/badge/X-SHIx9-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
+</a>
+
+<a href="https://youtube.com/@sourovlimon4578">
+  <img
+    src="https://img.shields.io/badge/YouTube-Sourov-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+    alt="YouTube"
+  />
+</a>
+
+<br><br>
+
+<a href="https://www.facebook.com/share/1QuaAh6Sxc/">
+  <img
+    src="https://img.shields.io/badge/Facebook-Sourov%20Hossen-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
+</a>
+
+<a href="https://t.me/Mr_SHI_9">
+  <img
+    src="https://img.shields.io/badge/Telegram-Mr__SHI__9-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+    alt="Telegram"
+  />
+</a>
+
+<a href="mailto:sourovlimon85@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-sourovlimon85%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shii9/shii9/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shii9/shii9/output/github-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/shii9/shii9/output/github-snake.svg">
-  </picture>
+
+## 🐍 Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake.svg"
+  />
+
+  <img
+    src="https://raw.githubusercontent.com/TechnologyHell/TechnologyHell/output/github-snake.svg"
+    width="100%"
+    alt="GitHub Snake Animation"
+  />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### Learning How Systems Break — Building Them to Survive
+
+<br>
+
+<img
+  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+  width="100%"
+  alt="Animated footer divider"
+/>
+
+<br>
+
+<sub>
+  Built and maintained by
+  <a href="https://github.com/shii9">
+    <strong>Sourov Hossen · SHIx9</strong>
+  </a>
+</sub>
+
 </div>
