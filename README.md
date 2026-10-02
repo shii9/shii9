@@ -31,9 +31,11 @@
 
 ## Hi there 👋
 
-I'm **Sourov (SHIx9)** — a final-year Computer Science and Engineering student in Bangladesh, focused on cybersecurity and security research. My interest started with a simple realization: most digital systems are far more fragile than they look, and figuring out how to break — then fix — that fragility became the thing I couldn't stop doing.
+I'm **Sourov (SHIx9)** a cybersecurity enthusiast pursuing a BSc in Computer Science and Engineering at Daffodil International University. I have maintained a strong academic record while continuously expanding my practical skills through hands-on learning, security research and real-world project experience. My interest in cybersecurity began when I realized the vulnerability of digital systems. Since then, I have been dedicated to understanding how attackers think, how systems fail and how organizations can defend against modern cyber threats. I am actively building expertise in ethical hacking, application security, network security, and security operations. Alongside my academic studies, I continuously strengthen my skills through practical labs, vulnerability research, and developing security-focused projects.
 
-I work across ethical hacking, network security, and digital forensics, with hands-on experience in tools like Wireshark, Nmap, and Burp Suite, and I build my own tooling in Python and Go when the existing tools don't do exactly what I need.
+I have designed and developed projects including a Network Intrusion Detection System (NIDS), EchoMe, DorkNio and several other cybersecurity tools. These projects provided me with practical experience using both red and blue team methodologies, improving my understanding of secure system design.
+
+Beyond technical implementation, I am deeply interested in cybersecurity research that focuses on identifying emerging security challenges and exploring practical solutions to strengthen the security of modern systems. I am particularly interested in the intersection of cybersecurity and artificial intelligence, where research is advancing by integrating AI with cybersecurity to enhance the overall resilience of modern digital systems. For me, cybersecurity is more than just a collection of tools or techniques. It is a mindset of continuous learning, critical thinking and proactive defence.
 
 For me, cybersecurity isn't just a skillset — it's a mindset of proactive defense and continuous learning. Outside of testing and development, I study real-world incidents and attack vectors, contribute to open-source security tools, and spend a lot of time in Linux environments building things from the ground up.
 
