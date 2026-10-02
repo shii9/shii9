@@ -31,7 +31,7 @@
 
 ## Hi there 👋
 
-I'm **Sourov (SHIx9)** a cybersecurity enthusiast pursuing a BSc in Computer Science and Engineering at Daffodil International University. I have maintained a strong academic record while continuously expanding my practical skills through hands-on learning, security research and real-world project experience. My interest in cybersecurity began when I realized the vulnerability of digital systems. Since then, I have been dedicated to understanding how attackers think, how systems fail and how organizations can defend against modern cyber threats. I am actively building expertise in ethical hacking, application security, network security, and security operations. Alongside my academic studies, I continuously strengthen my skills through practical labs, vulnerability research, and developing security-focused projects.
+I'm **Sourov (SHIx9)** a cybersecurity enthusiast pursuing a BSc in Computer Science and Engineering at Daffodil International University. I have continuously expanding my practical skills through hands-on learning, security research and real-world project experience. My interest in cybersecurity began when I realized the vulnerability of digital systems, so i have been dedicated to understanding how attackers think, how systems fail and how organizations can defend against modern cyber threats. I am actively building expertise in ethical hacking, application security, network security, and security operations.
 
 I have designed and developed projects including a Network Intrusion Detection System (NIDS), EchoMe, DorkNio and several other cybersecurity tools. These projects provided me with practical experience using both red and blue team methodologies, improving my understanding of secure system design.
 
